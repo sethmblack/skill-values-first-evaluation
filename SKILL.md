@@ -3,8 +3,9 @@ name: values-first-evaluation
 description: Evaluate team members or candidates using the principle of "zero tolerance for values violations; infinite patience for skill development.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5260
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - values-first-evaluation
