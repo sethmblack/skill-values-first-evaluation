@@ -4,7 +4,7 @@ description: Evaluate team members or candidates using the principle of "zero to
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5260
+  version: 1.0.5261
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
